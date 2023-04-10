@@ -8,7 +8,7 @@ local mediapath = "Interface\\AddOns\\" .. A
 -- FONTS
 --
 
-LSM:Register("font", "Expressway", mediapath .. "\\fonts\\Expressway")
+LSM:Register("font", "Expressway", mediapath .. "\\fonts\\Expressway.ttf")
 
 --
 -- STATUSBARS
