@@ -15,6 +15,7 @@ LSM:Register("font", "Accidental Presidency", mediapath .. "\\fonts\\Accidental 
 -- STATUSBARS
 --
 
+LSM:Register("statusbar", "RiphieAbsorb", mediapath .. "\\statusbars\\RiphieAbsorb")
 LSM:Register("statusbar", "Skullflower", mediapath .. "\\statusbars\\Skullflower")
 LSM:Register("statusbar", "Skullflower1", mediapath .. "\\statusbars\\Skullflower1")
 LSM:Register("statusbar", "Skullflower2", mediapath .. "\\statusbars\\Skullflower2")
