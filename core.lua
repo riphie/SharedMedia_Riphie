@@ -1,6 +1,6 @@
 local A, L = ...
 
-local LSM = LibStub("LibSharedMedia-3.0")
+local LSM = LibStub "LibSharedMedia-3.0"
 
 local mediapath = "Interface\\AddOns\\" .. A
 
