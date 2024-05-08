@@ -1,4 +1,4 @@
-## Interface: 100200
+## Interface: 100207
 
 ## Title: Riphie SharedMedia
 ## Author: Riphie
@@ -6,4 +6,4 @@
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
 embeds.xml
-core.lua 
+core.lua
