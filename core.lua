@@ -10,6 +10,10 @@ local mediapath = "Interface\\AddOns\\" .. A
 
 LSM:Register("font", "Expressway", mediapath .. "\\fonts\\Expressway.ttf")
 LSM:Register("font", "Accidental Presidency", mediapath .. "\\fonts\\Accidental Presidency.ttf")
+LSM:Register("font", "Avant Garde", mediapath .. "\\fonts\\AvantGarde.ttf")
+LSM:Register("font", "Avant Garde Bold", mediapath .. "\\fonts\\AvantGarde Bold.ttf")
+LSM:Register("font", "Avant Garde Italic", mediapath .. "\\fonts\\AvantGarde Italic.ttf")
+LSM:Register("font", "Avant Garde Gothic Medium", mediapath .. "\\fonts\\AvantGarde Gothic Medium.ttf")
 
 --
 -- STATUSBARS
