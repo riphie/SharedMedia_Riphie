@@ -2,6 +2,7 @@
 
 ## Title: Riphie SharedMedia
 ## Author: Riphie
+## IconTexture: Interface\AddOns\SharedMedia_Riphie\media\monkey.tga
 
 libs\LibStub\LibStub.lua
 libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
