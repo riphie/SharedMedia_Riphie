@@ -1,7 +1,8 @@
 ## Interface: 110100
 
-## Title: Riphie SharedMedia
+## Title: SharedMedia Riphie
 ## Author: Riphie
+## Category-enUS: Riphie
 ## IconTexture: Interface\AddOns\SharedMedia_Riphie\media\monkey.tga
 
 libs\LibStub\LibStub.lua
